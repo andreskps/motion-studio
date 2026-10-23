@@ -1,0 +1,199 @@
+{
+  "_nota": "Bases de color para /configurar. Se elige una base y un acento; el acento rellena primary, primaryHover y primaryDim. Si el creador ya tiene marca, se usan sus colores y esto no hace falta.",
+  "bases": {
+    "oscuro": {
+      "descripcion": "Negro editorial, tarjetas grises, texto blanco",
+      "background": "#0A0A0A",
+      "surface": "#111111",
+      "surface2": "#171717",
+      "surfaceOffset": "#1C1C1C",
+      "border": "#27272A",
+      "divider": "#222222",
+      "text": "#FAFAFA",
+      "muted": "#A1A1AA",
+      "faint": "#52525B",
+      "negativoExcepcion": "#EF4444"
+    },
+    "claro": {
+      "descripcion": "Blanco limpio, tarjetas con contorno negro (estilo saasyass)",
+      "background": "#FAFAF9",
+      "surface": "#FFFFFF",
+      "surface2": "#F4F4F5",
+      "surfaceOffset": "#E4E4E7",
+      "border": "#D4D4D8",
+      "divider": "#E4E4E7",
+      "text": "#0A0A0A",
+      "muted": "#52525B",
+      "faint": "#A1A1AA",
+      "negativoExcepcion": "#DC2626"
+    },
+    "crema": {
+      "descripcion": "Papel cálido, tinta oscura, aire de revista",
+      "background": "#F5F0E6",
+      "surface": "#FBF8F1",
+      "surface2": "#EFE8DA",
+      "surfaceOffset": "#E2D8C3",
+      "border": "#CFC3AA",
+      "divider": "#E2D8C3",
+      "text": "#1C1917",
+      "muted": "#57534E",
+      "faint": "#A8A29E",
+      "negativoExcepcion": "#B91C1C"
+    },
+    "azul-noche": {
+      "descripcion": "Azul muy oscuro, técnico y sobrio",
+      "background": "#0B1020",
+      "surface": "#111831",
+      "surface2": "#18213F",
+      "surfaceOffset": "#1F2A4D",
+      "border": "#2A3660",
+      "divider": "#1F2A4D",
+      "text": "#F1F5F9",
+      "muted": "#94A3B8",
+      "faint": "#475569",
+      "negativoExcepcion": "#F87171"
+    }
+  },
+  "acentos": {
+    "verde": {
+      "primary": "#22C55E",
+      "primaryHover": "#16A34A",
+      "primaryDim": "rgba(34,197,94,0.12)"
+    },
+    "azul": {
+      "primary": "#3B82F6",
+      "primaryHover": "#2563EB",
+      "primaryDim": "rgba(59,130,246,0.14)"
+    },
+    "amarillo": {
+      "primary": "#FACC15",
+      "primaryHover": "#EAB308",
+      "primaryDim": "rgba(250,204,21,0.16)"
+    },
+    "naranja": {
+      "primary": "#F97316",
+      "primaryHover": "#EA580C",
+      "primaryDim": "rgba(249,115,22,0.14)"
+    },
+    "rosa": {
+      "primary": "#EC4899",
+      "primaryHover": "#DB2777",
+      "primaryDim": "rgba(236,72,153,0.14)"
+    },
+    "violeta": {
+      "primary": "#8B5CF6",
+      "primaryHover": "#7C3AED",
+      "primaryDim": "rgba(139,92,246,0.14)"
+    },
+    "rojo": {
+      "primary": "#EF4444",
+      "primaryHover": "#DC2626",
+      "primaryDim": "rgba(239,68,68,0.14)",
+      "_aviso": "si el acento es rojo, lo negativo se marca solo con forma (tachado, gris, ✗)"
+    }
+  },
+  "fuentes": {
+    "_nota": "Combinaciones probadas (titular / cuerpo). Todas están registradas en studio/src/lib/fuentes.ts; para otra de Google Fonts, añade su import allí.",
+    "editorial-moderna": {
+      "titulo": {
+        "familia": "Plus Jakarta Sans",
+        "pesos": [
+          "700",
+          "800"
+        ]
+      },
+      "cuerpo": {
+        "familia": "Inter",
+        "pesos": [
+          "400",
+          "500",
+          "600"
+        ]
+      }
+    },
+    "tecnica": {
+      "titulo": {
+        "familia": "Space Grotesk",
+        "pesos": [
+          "600",
+          "700"
+        ]
+      },
+      "cuerpo": {
+        "familia": "Inter",
+        "pesos": [
+          "400",
+          "500",
+          "600"
+        ]
+      }
+    },
+    "impacto": {
+      "titulo": {
+        "familia": "Anton",
+        "pesos": [
+          "400"
+        ]
+      },
+      "cuerpo": {
+        "familia": "Inter",
+        "pesos": [
+          "400",
+          "500",
+          "600"
+        ]
+      }
+    },
+    "revista": {
+      "titulo": {
+        "familia": "Playfair Display",
+        "pesos": [
+          "700",
+          "800"
+        ]
+      },
+      "cuerpo": {
+        "familia": "DM Sans",
+        "pesos": [
+          "400",
+          "500",
+          "600"
+        ]
+      }
+    },
+    "amigable": {
+      "titulo": {
+        "familia": "Outfit",
+        "pesos": [
+          "700",
+          "800"
+        ]
+      },
+      "cuerpo": {
+        "familia": "Manrope",
+        "pesos": [
+          "400",
+          "500",
+          "600"
+        ]
+      }
+    },
+    "geometrica": {
+      "titulo": {
+        "familia": "Sora",
+        "pesos": [
+          "700",
+          "800"
+        ]
+      },
+      "cuerpo": {
+        "familia": "DM Sans",
+        "pesos": [
+          "400",
+          "500",
+          "600"
+        ]
+      }
+    }
+  }
+}

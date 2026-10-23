@@ -1,0 +1,84 @@
+{
+ "motor": "stable-ts medium",
+ "pausas": 9,
+ "alineador": {
+  "N": 8,
+  "p50_ms": 51,
+  "p95_ms": 161,
+  "desvio_ms": 47,
+  "dentro_tolerancia": 0.38
+ },
+ "correccion_k_ms": 47,
+ "trasCorreccion": {
+  "N": 8,
+  "p50_ms": 53,
+  "p95_ms": 114,
+  "desvio_ms": 0,
+  "dentro_tolerancia": 0.5
+ },
+ "trasAjuste": {
+  "N": 8,
+  "p50_ms": 0,
+  "p95_ms": 0,
+  "desvio_ms": 0,
+  "dentro_tolerancia": 1.0
+ },
+ "ajustes": [
+  {
+   "palabra": "Tú",
+   "inicio": 2.724,
+   "delta_ms": 11,
+   "aplicado": true
+  },
+  {
+   "palabra": "generas",
+   "inicio": 4.073,
+   "delta_ms": -100,
+   "aplicado": true
+  },
+  {
+   "palabra": "y",
+   "inicio": 5.122,
+   "delta_ms": -11,
+   "aplicado": true
+  },
+  {
+   "palabra": "Cada",
+   "inicio": 8.416,
+   "delta_ms": 23,
+   "aplicado": true
+  },
+  {
+   "palabra": "Por",
+   "inicio": 11.745,
+   "delta_ms": 92,
+   "aplicado": true
+  },
+  {
+   "palabra": "esta",
+   "inicio": 12.679,
+   "delta_ms": -114,
+   "aplicado": true
+  },
+  {
+   "palabra": "Y",
+   "inicio": 15.555,
+   "delta_ms": 82,
+   "aplicado": true
+  },
+  {
+   "palabra": "para",
+   "inicio": 17.371,
+   "delta_ms": -22,
+   "aplicado": true
+  }
+ ],
+ "verificacion": [
+  {
+   "tipo": "omitida",
+   "guion": "motion",
+   "audio": "",
+   "segundo": 1.033
+  }
+ ]
+}

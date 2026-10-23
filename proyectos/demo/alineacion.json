@@ -1,0 +1,342 @@
+{
+ "motor": "stable-ts",
+ "modelo": "medium",
+ "palabras": [
+  {
+   "texto": "Este",
+   "inicio": 0.0,
+   "fin": 0.3,
+   "prob": 0.786
+  },
+  {
+   "texto": "es",
+   "inicio": 0.3,
+   "fin": 0.48,
+   "prob": 0.994
+  },
+  {
+   "texto": "tu",
+   "inicio": 0.48,
+   "fin": 0.56,
+   "prob": 0.982
+  },
+  {
+   "texto": "estudio",
+   "inicio": 0.56,
+   "fin": 0.86,
+   "prob": 0.986
+  },
+  {
+   "texto": "de",
+   "inicio": 0.86,
+   "fin": 1.08,
+   "prob": 0.989
+  },
+  {
+   "texto": "motion",
+   "inicio": 1.08,
+   "fin": 1.34,
+   "prob": 0.018
+  },
+  {
+   "texto": "graphics.",
+   "inicio": 1.34,
+   "fin": 2.76,
+   "prob": 0.891
+  },
+  {
+   "texto": "Tú",
+   "inicio": 2.76,
+   "fin": 2.9,
+   "prob": 0.715
+  },
+  {
+   "texto": "escribes",
+   "inicio": 2.9,
+   "fin": 3.24,
+   "prob": 0.976
+  },
+  {
+   "texto": "el",
+   "inicio": 3.24,
+   "fin": 3.42,
+   "prob": 0.993
+  },
+  {
+   "texto": "guion,",
+   "inicio": 3.42,
+   "fin": 4.22,
+   "prob": 0.415
+  },
+  {
+   "texto": "generas",
+   "inicio": 4.22,
+   "fin": 4.44,
+   "prob": 0.99
+  },
+  {
+   "texto": "la",
+   "inicio": 4.44,
+   "fin": 4.6,
+   "prob": 0.999
+  },
+  {
+   "texto": "voz,",
+   "inicio": 4.6,
+   "fin": 5.18,
+   "prob": 0.944
+  },
+  {
+   "texto": "y",
+   "inicio": 5.18,
+   "fin": 5.24,
+   "prob": 0.992
+  },
+  {
+   "texto": "el",
+   "inicio": 5.24,
+   "fin": 5.44,
+   "prob": 0.999
+  },
+  {
+   "texto": "estudio",
+   "inicio": 5.44,
+   "fin": 5.64,
+   "prob": 0.995
+  },
+  {
+   "texto": "lo",
+   "inicio": 5.64,
+   "fin": 5.92,
+   "prob": 0.999
+  },
+  {
+   "texto": "convierte",
+   "inicio": 5.92,
+   "fin": 6.2,
+   "prob": 0.997
+  },
+  {
+   "texto": "en",
+   "inicio": 6.2,
+   "fin": 6.36,
+   "prob": 0.999
+  },
+  {
+   "texto": "un",
+   "inicio": 6.36,
+   "fin": 6.46,
+   "prob": 0.999
+  },
+  {
+   "texto": "video",
+   "inicio": 6.46,
+   "fin": 6.7,
+   "prob": 0.408
+  },
+  {
+   "texto": "listo",
+   "inicio": 6.7,
+   "fin": 7.04,
+   "prob": 0.993
+  },
+  {
+   "texto": "para",
+   "inicio": 7.04,
+   "fin": 7.18,
+   "prob": 0.999
+  },
+  {
+   "texto": "publicar.",
+   "inicio": 7.18,
+   "fin": 8.44,
+   "prob": 0.99
+  },
+  {
+   "texto": "Cada",
+   "inicio": 8.44,
+   "fin": 8.6,
+   "prob": 0.991
+  },
+  {
+   "texto": "animación",
+   "inicio": 8.6,
+   "fin": 9.04,
+   "prob": 0.999
+  },
+  {
+   "texto": "llega",
+   "inicio": 9.04,
+   "fin": 9.26,
+   "prob": 0.998
+  },
+  {
+   "texto": "justo",
+   "inicio": 9.26,
+   "fin": 9.56,
+   "prob": 0.995
+  },
+  {
+   "texto": "cuando",
+   "inicio": 9.56,
+   "fin": 9.86,
+   "prob": 0.995
+  },
+  {
+   "texto": "la",
+   "inicio": 9.86,
+   "fin": 9.98,
+   "prob": 0.999
+  },
+  {
+   "texto": "voz",
+   "inicio": 9.98,
+   "fin": 10.12,
+   "prob": 0.999
+  },
+  {
+   "texto": "dice",
+   "inicio": 10.12,
+   "fin": 10.36,
+   "prob": 0.997
+  },
+  {
+   "texto": "su",
+   "inicio": 10.36,
+   "fin": 10.52,
+   "prob": 0.998
+  },
+  {
+   "texto": "palabra.",
+   "inicio": 10.52,
+   "fin": 11.7,
+   "prob": 0.985
+  },
+  {
+   "texto": "Por",
+   "inicio": 11.7,
+   "fin": 11.92,
+   "prob": 0.987
+  },
+  {
+   "texto": "ejemplo,",
+   "inicio": 11.92,
+   "fin": 12.84,
+   "prob": 0.992
+  },
+  {
+   "texto": "esta",
+   "inicio": 12.84,
+   "fin": 12.96,
+   "prob": 0.976
+  },
+  {
+   "texto": "cifra",
+   "inicio": 12.96,
+   "fin": 13.24,
+   "prob": 0.999
+  },
+  {
+   "texto": "sube",
+   "inicio": 13.24,
+   "fin": 13.46,
+   "prob": 0.996
+  },
+  {
+   "texto": "hasta",
+   "inicio": 13.46,
+   "fin": 13.68,
+   "prob": 0.998
+  },
+  {
+   "texto": "cien",
+   "inicio": 13.68,
+   "fin": 13.92,
+   "prob": 0.611
+  },
+  {
+   "texto": "exactamente",
+   "inicio": 13.92,
+   "fin": 14.52,
+   "prob": 0.99
+  },
+  {
+   "texto": "ahora.",
+   "inicio": 14.52,
+   "fin": 15.52,
+   "prob": 0.934
+  },
+  {
+   "texto": "Y",
+   "inicio": 15.52,
+   "fin": 15.68,
+   "prob": 0.96
+  },
+  {
+   "texto": "al",
+   "inicio": 15.68,
+   "fin": 15.84,
+   "prob": 0.994
+  },
+  {
+   "texto": "final",
+   "inicio": 15.84,
+   "fin": 16.02,
+   "prob": 0.999
+  },
+  {
+   "texto": "aparece",
+   "inicio": 16.02,
+   "fin": 16.4,
+   "prob": 0.996
+  },
+  {
+   "texto": "tu",
+   "inicio": 16.4,
+   "fin": 16.58,
+   "prob": 0.991
+  },
+  {
+   "texto": "perfil,",
+   "inicio": 16.58,
+   "fin": 17.44,
+   "prob": 0.987
+  },
+  {
+   "texto": "para",
+   "inicio": 17.44,
+   "fin": 17.56,
+   "prob": 0.994
+  },
+  {
+   "texto": "que",
+   "inicio": 17.56,
+   "fin": 17.68,
+   "prob": 0.999
+  },
+  {
+   "texto": "la",
+   "inicio": 17.68,
+   "fin": 17.82,
+   "prob": 0.999
+  },
+  {
+   "texto": "gente",
+   "inicio": 17.82,
+   "fin": 18.0,
+   "prob": 0.999
+  },
+  {
+   "texto": "te",
+   "inicio": 18.0,
+   "fin": 18.2,
+   "prob": 0.999
+  },
+  {
+   "texto": "siga.",
+   "inicio": 18.2,
+   "fin": 19.04,
+   "prob": 0.991
+  }
+ ]
+}

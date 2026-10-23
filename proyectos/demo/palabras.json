@@ -1,0 +1,566 @@
+{
+ "duracion": 19.113,
+ "cobertura": 1.0,
+ "anclas": {
+  "estudio": {
+   "indice": 3,
+   "inicio": 0.513,
+   "fin": 0.813
+  },
+  "guion": {
+   "indice": 10,
+   "inicio": 3.373,
+   "fin": 3.651
+  },
+  "voz": {
+   "indice": 13,
+   "inicio": 4.553,
+   "fin": 4.665
+  },
+  "listo": {
+   "indice": 22,
+   "inicio": 6.653,
+   "fin": 6.993
+  },
+  "justo": {
+   "indice": 28,
+   "inicio": 9.213,
+   "fin": 9.513
+  },
+  "palabra": {
+   "indice": 34,
+   "inicio": 10.473,
+   "fin": 10.869
+  },
+  "cien": {
+   "indice": 41,
+   "inicio": 13.633,
+   "fin": 13.873
+  },
+  "perfil": {
+   "indice": 49,
+   "inicio": 16.533,
+   "fin": 16.927
+  },
+  "seguir": {
+   "indice": 55,
+   "inicio": 18.153,
+   "fin": 18.993
+  }
+ },
+ "palabras": [
+  {
+   "texto": "Este",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 0.0,
+   "fin": 0.253,
+   "origen": "forzada"
+  },
+  {
+   "texto": "es",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 0.253,
+   "fin": 0.433,
+   "origen": "forzada"
+  },
+  {
+   "texto": "tu",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 0.433,
+   "fin": 0.513,
+   "origen": "forzada"
+  },
+  {
+   "texto": "estudio",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "ancla": "estudio",
+   "inicio": 0.513,
+   "fin": 0.813,
+   "origen": "forzada"
+  },
+  {
+   "texto": "de",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 0.813,
+   "fin": 1.033,
+   "origen": "forzada"
+  },
+  {
+   "texto": "motion",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 1.033,
+   "fin": 1.293,
+   "origen": "forzada"
+  },
+  {
+   "texto": "graphics.",
+   "finFrase": true,
+   "pausa": false,
+   "clave": false,
+   "inicio": 1.293,
+   "fin": 1.821,
+   "origen": "forzada"
+  },
+  {
+   "texto": "Tú",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 2.724,
+   "fin": 2.853,
+   "origen": "forzada"
+  },
+  {
+   "texto": "escribes",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 2.853,
+   "fin": 3.193,
+   "origen": "forzada"
+  },
+  {
+   "texto": "el",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 3.193,
+   "fin": 3.373,
+   "origen": "forzada"
+  },
+  {
+   "texto": "guion,",
+   "finFrase": false,
+   "pausa": true,
+   "clave": false,
+   "ancla": "guion",
+   "inicio": 3.373,
+   "fin": 3.651,
+   "origen": "forzada"
+  },
+  {
+   "texto": "generas",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 4.073,
+   "fin": 4.393,
+   "origen": "forzada"
+  },
+  {
+   "texto": "la",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 4.393,
+   "fin": 4.553,
+   "origen": "forzada"
+  },
+  {
+   "texto": "voz,",
+   "finFrase": false,
+   "pausa": true,
+   "clave": false,
+   "ancla": "voz",
+   "inicio": 4.553,
+   "fin": 4.665,
+   "origen": "forzada"
+  },
+  {
+   "texto": "y",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 5.122,
+   "fin": 5.193,
+   "origen": "forzada"
+  },
+  {
+   "texto": "el",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 5.193,
+   "fin": 5.393,
+   "origen": "forzada"
+  },
+  {
+   "texto": "estudio",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 5.393,
+   "fin": 5.593,
+   "origen": "forzada"
+  },
+  {
+   "texto": "lo",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 5.593,
+   "fin": 5.873,
+   "origen": "forzada"
+  },
+  {
+   "texto": "convierte",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 5.873,
+   "fin": 6.153,
+   "origen": "forzada"
+  },
+  {
+   "texto": "en",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 6.153,
+   "fin": 6.313,
+   "origen": "forzada"
+  },
+  {
+   "texto": "un",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 6.313,
+   "fin": 6.413,
+   "origen": "forzada"
+  },
+  {
+   "texto": "video",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 6.413,
+   "fin": 6.653,
+   "origen": "forzada"
+  },
+  {
+   "texto": "listo",
+   "finFrase": false,
+   "pausa": false,
+   "clave": true,
+   "ancla": "listo",
+   "inicio": 6.653,
+   "fin": 6.993,
+   "origen": "forzada"
+  },
+  {
+   "texto": "para",
+   "finFrase": false,
+   "pausa": false,
+   "clave": true,
+   "inicio": 6.993,
+   "fin": 7.133,
+   "origen": "forzada"
+  },
+  {
+   "texto": "publicar.",
+   "finFrase": true,
+   "pausa": false,
+   "clave": true,
+   "inicio": 7.133,
+   "fin": 7.559,
+   "origen": "forzada"
+  },
+  {
+   "texto": "Cada",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 8.416,
+   "fin": 8.553,
+   "origen": "forzada"
+  },
+  {
+   "texto": "animación",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 8.553,
+   "fin": 8.993,
+   "origen": "forzada"
+  },
+  {
+   "texto": "llega",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 8.993,
+   "fin": 9.213,
+   "origen": "forzada"
+  },
+  {
+   "texto": "justo",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "ancla": "justo",
+   "inicio": 9.213,
+   "fin": 9.513,
+   "origen": "forzada"
+  },
+  {
+   "texto": "cuando",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 9.513,
+   "fin": 9.813,
+   "origen": "forzada"
+  },
+  {
+   "texto": "la",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 9.813,
+   "fin": 9.933,
+   "origen": "forzada"
+  },
+  {
+   "texto": "voz",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 9.933,
+   "fin": 10.073,
+   "origen": "forzada"
+  },
+  {
+   "texto": "dice",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 10.073,
+   "fin": 10.313,
+   "origen": "forzada"
+  },
+  {
+   "texto": "su",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 10.313,
+   "fin": 10.473,
+   "origen": "forzada"
+  },
+  {
+   "texto": "palabra.",
+   "finFrase": true,
+   "pausa": false,
+   "clave": false,
+   "ancla": "palabra",
+   "inicio": 10.473,
+   "fin": 10.869,
+   "origen": "forzada"
+  },
+  {
+   "texto": "Por",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 11.745,
+   "fin": 11.873,
+   "origen": "forzada"
+  },
+  {
+   "texto": "ejemplo,",
+   "finFrase": false,
+   "pausa": true,
+   "clave": false,
+   "inicio": 11.873,
+   "fin": 12.294,
+   "origen": "forzada"
+  },
+  {
+   "texto": "esta",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 12.679,
+   "fin": 12.913,
+   "origen": "forzada"
+  },
+  {
+   "texto": "cifra",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 12.913,
+   "fin": 13.193,
+   "origen": "forzada"
+  },
+  {
+   "texto": "sube",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 13.193,
+   "fin": 13.413,
+   "origen": "forzada"
+  },
+  {
+   "texto": "hasta",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 13.413,
+   "fin": 13.633,
+   "origen": "forzada"
+  },
+  {
+   "texto": "cien",
+   "finFrase": false,
+   "pausa": false,
+   "clave": true,
+   "ancla": "cien",
+   "inicio": 13.633,
+   "fin": 13.873,
+   "origen": "forzada"
+  },
+  {
+   "texto": "exactamente",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 13.873,
+   "fin": 14.473,
+   "origen": "forzada"
+  },
+  {
+   "texto": "ahora.",
+   "finFrase": true,
+   "pausa": false,
+   "clave": false,
+   "inicio": 14.473,
+   "fin": 14.725,
+   "origen": "forzada"
+  },
+  {
+   "texto": "Y",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 15.555,
+   "fin": 15.633,
+   "origen": "forzada"
+  },
+  {
+   "texto": "al",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 15.633,
+   "fin": 15.793,
+   "origen": "forzada"
+  },
+  {
+   "texto": "final",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 15.793,
+   "fin": 15.973,
+   "origen": "forzada"
+  },
+  {
+   "texto": "aparece",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 15.973,
+   "fin": 16.353,
+   "origen": "forzada"
+  },
+  {
+   "texto": "tu",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 16.353,
+   "fin": 16.533,
+   "origen": "forzada"
+  },
+  {
+   "texto": "perfil,",
+   "finFrase": false,
+   "pausa": true,
+   "clave": false,
+   "ancla": "perfil",
+   "inicio": 16.533,
+   "fin": 16.927,
+   "origen": "forzada"
+  },
+  {
+   "texto": "para",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 17.371,
+   "fin": 17.513,
+   "origen": "forzada"
+  },
+  {
+   "texto": "que",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 17.513,
+   "fin": 17.633,
+   "origen": "forzada"
+  },
+  {
+   "texto": "la",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 17.633,
+   "fin": 17.773,
+   "origen": "forzada"
+  },
+  {
+   "texto": "gente",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 17.773,
+   "fin": 17.953,
+   "origen": "forzada"
+  },
+  {
+   "texto": "te",
+   "finFrase": false,
+   "pausa": false,
+   "clave": false,
+   "inicio": 17.953,
+   "fin": 18.153,
+   "origen": "forzada"
+  },
+  {
+   "texto": "siga.",
+   "finFrase": true,
+   "pausa": false,
+   "clave": false,
+   "ancla": "seguir",
+   "inicio": 18.153,
+   "fin": 18.993,
+   "origen": "forzada"
+  }
+ ]
+}

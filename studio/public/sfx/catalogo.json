@@ -1,0 +1,1666 @@
+{
+ "origen": "pipeline/generar_sfx.py + pipeline/importar_sfx.py",
+ "sonidos": [
+  {
+   "id": "pop",
+   "categoria": "aparicion",
+   "descripcion": "Pop redondo con chasquido y algo de sala",
+   "usos": [
+    "aparece texto o ícono",
+    "entra una palabra clave",
+    "sticker"
+   ],
+   "volumen": 0.6,
+   "variantes": [
+    {
+     "archivo": "sfx/pop-1.wav",
+     "duracion": 0.261,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/pop-2.wav",
+     "duracion": 0.26,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/pop-3.wav",
+     "duracion": 0.257,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/biblioteca/pop-b1.wav",
+     "duracion": 0.116,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "drop_001.ogg",
+     "sha1": "ca174bba4dae74838326e3d705efa353b250f8bc"
+    },
+    {
+     "archivo": "sfx/biblioteca/pop-b2.wav",
+     "duracion": 0.188,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "drop_002.ogg",
+     "sha1": "c0f735670be0a38a98d2bc3701a4993d0a063c6f"
+    },
+    {
+     "archivo": "sfx/biblioteca/pop-b3.wav",
+     "duracion": 0.188,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "drop_003.ogg",
+     "sha1": "5f9486ed86d9313be532f21f2bc38d8802efc304"
+    },
+    {
+     "archivo": "sfx/biblioteca/pop-b4.wav",
+     "duracion": 0.221,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "drop_004.ogg",
+     "sha1": "3df9e035aeccc6cf03697ff5a1e8fb9ef7cff433"
+    },
+    {
+     "archivo": "sfx/biblioteca/pop-b5.wav",
+     "duracion": 0.098,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "pluck_001.ogg",
+     "sha1": "c658b24e88542f4cb04029cd3fef0bda8959ecc7"
+    },
+    {
+     "archivo": "sfx/biblioteca/pop-b6.wav",
+     "duracion": 0.126,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "pluck_002.ogg",
+     "sha1": "8b3c2210f0c00affebb5796a3a200f0a02ea5d2d"
+    }
+   ]
+  },
+  {
+   "id": "click",
+   "categoria": "interfaz",
+   "descripcion": "Clic de interfaz con cuerpo",
+   "usos": [
+    "selección",
+    "check en una lista",
+    "botón"
+   ],
+   "volumen": 0.55,
+   "variantes": [
+    {
+     "archivo": "sfx/click-1.wav",
+     "duracion": 0.1,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/click-2.wav",
+     "duracion": 0.113,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/click-3.wav",
+     "duracion": 0.111,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/biblioteca/click-b1.wav",
+     "duracion": 0.046,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "click_001.ogg",
+     "sha1": "3fd39a5bc24c0f10ccb6d4778f01326d06144198"
+    },
+    {
+     "archivo": "sfx/biblioteca/click-b2.wav",
+     "duracion": 0.012,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "click_002.ogg",
+     "sha1": "7bc0eb2c71afe88c77d066b35a0bc75c5ef80fd4"
+    },
+    {
+     "archivo": "sfx/biblioteca/click-b3.wav",
+     "duracion": 0.007,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "click_003.ogg",
+     "sha1": "8a98433086900aae8d0206244a6328be8c8451f1"
+    },
+    {
+     "archivo": "sfx/biblioteca/click-b4.wav",
+     "duracion": 0.014,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "click_004.ogg",
+     "sha1": "dba410368e60b719799696e36f3fcf95c18217e2"
+    },
+    {
+     "archivo": "sfx/biblioteca/click-b5.wav",
+     "duracion": 0.007,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "click_005.ogg",
+     "sha1": "0c40c6f49286d41626dfd08a922cbe4f041cc4da"
+    },
+    {
+     "archivo": "sfx/biblioteca/click-b6.wav",
+     "duracion": 0.04,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "select_001.ogg",
+     "sha1": "bf7df59bc763af6857738979a9890ed34fe472c3"
+    },
+    {
+     "archivo": "sfx/biblioteca/click-b7.wav",
+     "duracion": 0.04,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "select_002.ogg",
+     "sha1": "e506cc4758bb7fb121cb81a5c1e427c40a68776d"
+    },
+    {
+     "archivo": "sfx/biblioteca/click-b8.wav",
+     "duracion": 0.226,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "select_003.ogg",
+     "sha1": "b4b5e960e4ea7074bb2481a64e9358e33e6f6d71"
+    },
+    {
+     "archivo": "sfx/biblioteca/click-b9.wav",
+     "duracion": 0.221,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "select_004.ogg",
+     "sha1": "2ffcfe74034f0dfeaa49af3400df622592d55ff6"
+    },
+    {
+     "archivo": "sfx/biblioteca/click-b10.wav",
+     "duracion": 0.223,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "select_005.ogg",
+     "sha1": "c796f9ebe511cfbc536d2298d5233bf1ad3da241"
+    },
+    {
+     "archivo": "sfx/biblioteca/click-b11.wav",
+     "duracion": 0.216,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "select_006.ogg",
+     "sha1": "d1a5fd22605d5c2fa2f25641cadca514bb209a38"
+    },
+    {
+     "archivo": "sfx/biblioteca/click-b12.wav",
+     "duracion": 0.053,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "select_007.ogg",
+     "sha1": "add1c8bc26c72647c52aabc1d7533eaeedf0217b"
+    },
+    {
+     "archivo": "sfx/biblioteca/click-b13.wav",
+     "duracion": 0.051,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "select_008.ogg",
+     "sha1": "16b6625251dfabcff9447dd27714f47492ceac32"
+    }
+   ]
+  },
+  {
+   "id": "tic",
+   "categoria": "interfaz",
+   "descripcion": "Tic seco y agudo",
+   "usos": [
+    "contador que sube",
+    "cada paso de un número"
+   ],
+   "volumen": 0.35,
+   "variantes": [
+    {
+     "archivo": "sfx/tic-1.wav",
+     "duracion": 0.05,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/tic-2.wav",
+     "duracion": 0.05,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/tic-3.wav",
+     "duracion": 0.05,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/biblioteca/tic-b1.wav",
+     "duracion": 0.016,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "tick_001.ogg",
+     "sha1": "4a02fc8e21a4db678c3f082f4ea8c4904bcde72c"
+    },
+    {
+     "archivo": "sfx/biblioteca/tic-b2.wav",
+     "duracion": 0.02,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "tick_002.ogg",
+     "sha1": "a357bc7139d7a50cdc12cb854e313ba3bb253fc6"
+    },
+    {
+     "archivo": "sfx/biblioteca/tic-b3.wav",
+     "duracion": 0.055,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "tick_004.ogg",
+     "sha1": "5dde75b602bb2502bee79aac4d1e323ccd945170"
+    }
+   ]
+  },
+  {
+   "id": "blip",
+   "categoria": "aparicion",
+   "descripcion": "Dos tonos que suben, de izquierda a derecha",
+   "usos": [
+    "notificación",
+    "dato nuevo",
+    "etiqueta"
+   ],
+   "volumen": 0.45,
+   "variantes": [
+    {
+     "archivo": "sfx/blip-1.wav",
+     "duracion": 0.496,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/blip-2.wav",
+     "duracion": 0.512,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b1.wav",
+     "duracion": 0.148,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "open_001.ogg",
+     "sha1": "3a6618eb9346042410a3081404d4696593539b5e"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b2.wav",
+     "duracion": 0.314,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "open_002.ogg",
+     "sha1": "3a3f24cb9a3d926fb648c87752291015278db41e"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b3.wav",
+     "duracion": 0.314,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "open_003.ogg",
+     "sha1": "aeaf38ef13f6a6f2d15548589c930b593035b7c0"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b4.wav",
+     "duracion": 0.323,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "open_004.ogg",
+     "sha1": "7b77563ebbb953a72a775419c5f74918b03eea3d"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b5.wav",
+     "duracion": 0.489,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "question_001.ogg",
+     "sha1": "fcf5f69154431e52fc6a2250c3f40a6678853d89"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b6.wav",
+     "duracion": 0.333,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "question_002.ogg",
+     "sha1": "c6bc47d3bc5122a03e1b56a063de8bd2cef899f2"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b7.wav",
+     "duracion": 0.33,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "question_003.ogg",
+     "sha1": "1c3986e022a6e5658b11299cf39ea909dc11482c"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b8.wav",
+     "duracion": 0.332,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "question_004.ogg",
+     "sha1": "f4ca01d9f65affcef7c6bc9ef6d61b91b4b121d6"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b9.wav",
+     "duracion": 0.258,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "maximize_001.ogg",
+     "sha1": "0b4b11b40ad04369fe6bb8fc4838c3e87f024a49"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b10.wav",
+     "duracion": 0.258,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "maximize_002.ogg",
+     "sha1": "8cd33079afb1a7496d61d86404812c64aee80ad6"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b11.wav",
+     "duracion": 0.211,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "maximize_003.ogg",
+     "sha1": "52ed51e56c2a893f7c1e0b4c20ef8c013831b5c7"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b12.wav",
+     "duracion": 0.405,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "maximize_004.ogg",
+     "sha1": "ec24a71cbe7bd0c485a33413ae63f5fdcf270d09"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b13.wav",
+     "duracion": 0.522,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "maximize_005.ogg",
+     "sha1": "8bf0916cbce26387fd845a59a052ad18c6b457a4"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b14.wav",
+     "duracion": 0.374,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "maximize_006.ogg",
+     "sha1": "6a8a3fa389713c4d53d9aa605b6077ad02f8cbf5"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b15.wav",
+     "duracion": 0.182,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "maximize_007.ogg",
+     "sha1": "37e36b691711b2f019bcc05462fe49201cff5c3b"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b16.wav",
+     "duracion": 0.214,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "maximize_008.ogg",
+     "sha1": "7dbfd14d80ef1ba56ae0c7dd337cdd0f8c18a154"
+    },
+    {
+     "archivo": "sfx/biblioteca/blip-b17.wav",
+     "duracion": 0.213,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "maximize_009.ogg",
+     "sha1": "2e5727266051d7ff6550a34b2117ba5ece3ece1a"
+    }
+   ]
+  },
+  {
+   "id": "whoosh",
+   "categoria": "transicion",
+   "descripcion": "Paso de aire en dos capas que cruza el estéreo",
+   "usos": [
+    "transición entre escenas",
+    "texto que cruza",
+    "cambio de tema"
+   ],
+   "volumen": 0.55,
+   "variantes": [
+    {
+     "archivo": "sfx/whoosh-1.wav",
+     "duracion": 0.723,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/whoosh-2.wav",
+     "duracion": 0.832,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/whoosh-3.wav",
+     "duracion": 0.707,
+     "fuente": "sintesis"
+    }
+   ]
+  },
+  {
+   "id": "swish",
+   "categoria": "transicion",
+   "descripcion": "Barrido rápido y agudo que cruza el estéreo",
+   "usos": [
+    "entrada rápida",
+    "deslizamiento corto"
+   ],
+   "volumen": 0.45,
+   "variantes": [
+    {
+     "archivo": "sfx/swish-1.wav",
+     "duracion": 0.379,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/swish-2.wav",
+     "duracion": 0.403,
+     "fuente": "sintesis"
+    }
+   ]
+  },
+  {
+   "id": "riser",
+   "categoria": "tension",
+   "descripcion": "Subida con sierras desafinadas y trémolo, corta seco",
+   "usos": [
+    "antes de una revelación",
+    "antes del gancho"
+   ],
+   "volumen": 0.5,
+   "variantes": [
+    {
+     "archivo": "sfx/riser-1.wav",
+     "duracion": 2.221,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/riser-2.wav",
+     "duracion": 2.146,
+     "fuente": "sintesis"
+    }
+   ]
+  },
+  {
+   "id": "impacto",
+   "categoria": "enfasis",
+   "descripcion": "Golpe grave con sub, crujido y sala grande",
+   "usos": [
+    "revelación",
+    "número grande",
+    "remate"
+   ],
+   "volumen": 0.7,
+   "variantes": [
+    {
+     "archivo": "sfx/impacto-1.wav",
+     "duracion": 2.172,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/impacto-2.wav",
+     "duracion": 2.092,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/impacto-3.wav",
+     "duracion": 2.08,
+     "fuente": "sintesis"
+    }
+   ]
+  },
+  {
+   "id": "sub-drop",
+   "categoria": "enfasis",
+   "descripcion": "Caída de bajo saturada (se oye en el teléfono)",
+   "usos": [
+    "momento dramático",
+    "después de un riser"
+   ],
+   "volumen": 0.6,
+   "variantes": [
+    {
+     "archivo": "sfx/sub-drop-1.wav",
+     "duracion": 1.872,
+     "fuente": "sintesis"
+    }
+   ]
+  },
+  {
+   "id": "glitch",
+   "categoria": "transicion",
+   "descripcion": "Interferencia digital que salta de lado a lado",
+   "usos": [
+    "corte brusco",
+    "error",
+    "tema tecnológico"
+   ],
+   "volumen": 0.45,
+   "variantes": [
+    {
+     "archivo": "sfx/glitch-1.wav",
+     "duracion": 0.368,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/glitch-2.wav",
+     "duracion": 0.376,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/glitch-3.wav",
+     "duracion": 0.388,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/biblioteca/glitch-b1.wav",
+     "duracion": 0.017,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "glitch_001.ogg",
+     "sha1": "fbc7c169016afcce643f21729076a5fbef93bad2"
+    },
+    {
+     "archivo": "sfx/biblioteca/glitch-b2.wav",
+     "duracion": 0.027,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "glitch_002.ogg",
+     "sha1": "6078e14ca1ff7fec864c4e40c75d79f0072cd1b4"
+    },
+    {
+     "archivo": "sfx/biblioteca/glitch-b3.wav",
+     "duracion": 0.012,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "glitch_003.ogg",
+     "sha1": "0bf2b9fe2f44dd9cfc9d8f1340f3355712b5950f"
+    },
+    {
+     "archivo": "sfx/biblioteca/glitch-b4.wav",
+     "duracion": 0.02,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "glitch_004.ogg",
+     "sha1": "4e34e9241985f7d9f209ab9a90f2fe749e099e5d"
+    }
+   ]
+  },
+  {
+   "id": "ding",
+   "categoria": "resultado",
+   "descripcion": "Campana con armónicos y sala",
+   "usos": [
+    "acierto",
+    "resultado positivo",
+    "logro"
+   ],
+   "volumen": 0.45,
+   "variantes": [
+    {
+     "archivo": "sfx/ding-1.wav",
+     "duracion": 2.059,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/ding-2.wav",
+     "duracion": 2.154,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/biblioteca/ding-b1.wav",
+     "duracion": 0.29,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "confirmation_001.ogg",
+     "sha1": "778f174aeb2eb8c2e456bfdb9ab5b50bb766a911"
+    },
+    {
+     "archivo": "sfx/biblioteca/ding-b2.wav",
+     "duracion": 0.533,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "confirmation_002.ogg",
+     "sha1": "a029b4209574c526c9bb9888979fdf3ee89de719"
+    },
+    {
+     "archivo": "sfx/biblioteca/ding-b3.wav",
+     "duracion": 0.322,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "confirmation_003.ogg",
+     "sha1": "2ac8b7f588ad2d037383a82a6fdb95ada7dedc1d"
+    },
+    {
+     "archivo": "sfx/biblioteca/ding-b4.wav",
+     "duracion": 0.49,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "confirmation_004.ogg",
+     "sha1": "fd4503fa1d5443b63ff3c28b94c5a69d8bef7274"
+    },
+    {
+     "archivo": "sfx/biblioteca/ding-b5.wav",
+     "duracion": 0.12,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "bong_001.ogg",
+     "sha1": "4d3c5683f8fa99177c1f7633836a0e0399cbfc16"
+    }
+   ]
+  },
+  {
+   "id": "error",
+   "categoria": "resultado",
+   "descripcion": "Zumbido de error desafinado",
+   "usos": [
+    "dato negativo",
+    "mito desmentido",
+    "lo que no hay que hacer"
+   ],
+   "volumen": 0.45,
+   "variantes": [
+    {
+     "archivo": "sfx/error-1.wav",
+     "duracion": 0.688,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/biblioteca/error-b1.wav",
+     "duracion": 0.162,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "error_001.ogg",
+     "sha1": "82b764e3bcaf2c0ae3b4d17e469f662e94aa9818"
+    },
+    {
+     "archivo": "sfx/biblioteca/error-b2.wav",
+     "duracion": 0.165,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "error_002.ogg",
+     "sha1": "0c2b938b6b720dbcb63a891a63566e10834b738f"
+    },
+    {
+     "archivo": "sfx/biblioteca/error-b3.wav",
+     "duracion": 0.38,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "error_003.ogg",
+     "sha1": "338e14456a5eeb40a2435787d96082d3e9d2540a"
+    },
+    {
+     "archivo": "sfx/biblioteca/error-b4.wav",
+     "duracion": 0.104,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "error_004.ogg",
+     "sha1": "bd0b82b245c5464462f314e7e2561def12283e39"
+    },
+    {
+     "archivo": "sfx/biblioteca/error-b5.wav",
+     "duracion": 0.181,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "error_005.ogg",
+     "sha1": "9b652283a55852d0673c38135b37960fe7de5eb6"
+    },
+    {
+     "archivo": "sfx/biblioteca/error-b6.wav",
+     "duracion": 0.239,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "error_006.ogg",
+     "sha1": "35f5a9de6ec528f0d89cc0e89ff3343ad279a273"
+    },
+    {
+     "archivo": "sfx/biblioteca/error-b7.wav",
+     "duracion": 0.192,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "error_007.ogg",
+     "sha1": "93e2d2883d0078286e72d41e771067c9148d0ecc"
+    },
+    {
+     "archivo": "sfx/biblioteca/error-b8.wav",
+     "duracion": 0.139,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "error_008.ogg",
+     "sha1": "1e32690ca942170fd52518b58a14735cd66805f7"
+    }
+   ]
+  },
+  {
+   "id": "tecla",
+   "categoria": "interfaz",
+   "descripcion": "Tecla de teclado plástica",
+   "usos": [
+    "texto que se escribe letra a letra"
+   ],
+   "volumen": 0.4,
+   "variantes": [
+    {
+     "archivo": "sfx/tecla-1.wav",
+     "duracion": 0.094,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/tecla-2.wav",
+     "duracion": 0.089,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/tecla-3.wav",
+     "duracion": 0.093,
+     "fuente": "sintesis"
+    }
+   ]
+  },
+  {
+   "id": "succion",
+   "categoria": "transicion",
+   "descripcion": "Golpe al revés que crece y corta",
+   "usos": [
+    "justo antes de un corte",
+    "entrada en reversa"
+   ],
+   "volumen": 0.5,
+   "variantes": [
+    {
+     "archivo": "sfx/succion-1.wav",
+     "duracion": 0.654,
+     "fuente": "sintesis"
+    },
+    {
+     "archivo": "sfx/succion-2.wav",
+     "duracion": 0.826,
+     "fuente": "sintesis"
+    }
+   ]
+  },
+  {
+   "id": "interruptor",
+   "categoria": "interfaz",
+   "descripcion": "Interruptor o toggle de interfaz",
+   "usos": [
+    "activar una opción",
+    "cambiar de estado",
+    "encender algo"
+   ],
+   "volumen": 0.5,
+   "variantes": [
+    {
+     "archivo": "sfx/biblioteca/interruptor-b1.wav",
+     "duracion": 0.138,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "switch_001.ogg",
+     "sha1": "ff27b5ddf92d6c9131dc80e39542bfd316f3ac25"
+    },
+    {
+     "archivo": "sfx/biblioteca/interruptor-b2.wav",
+     "duracion": 0.142,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "switch_002.ogg",
+     "sha1": "2b9384b935c3bd923a54335f6ca91347566e71e4"
+    },
+    {
+     "archivo": "sfx/biblioteca/interruptor-b3.wav",
+     "duracion": 0.214,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "switch_003.ogg",
+     "sha1": "0a7fc8581201c09034c315d0898154b3e7e3e96f"
+    },
+    {
+     "archivo": "sfx/biblioteca/interruptor-b4.wav",
+     "duracion": 0.155,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "switch_004.ogg",
+     "sha1": "5841296dcf43d1a1938c8d6bf61dd9f58f8e541e"
+    },
+    {
+     "archivo": "sfx/biblioteca/interruptor-b5.wav",
+     "duracion": 0.155,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "switch_005.ogg",
+     "sha1": "fb7991155b69b9fd2169ca2f7e5b3966d3eff91c"
+    },
+    {
+     "archivo": "sfx/biblioteca/interruptor-b6.wav",
+     "duracion": 0.142,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "switch_006.ogg",
+     "sha1": "c459cb9e303bf89c644de98571892b12e5be8ae4"
+    },
+    {
+     "archivo": "sfx/biblioteca/interruptor-b7.wav",
+     "duracion": 0.145,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "switch_007.ogg",
+     "sha1": "1cc073dac263b35537674bc91c914055f66cf443"
+    },
+    {
+     "archivo": "sfx/biblioteca/interruptor-b8.wav",
+     "duracion": 0.106,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "toggle_001.ogg",
+     "sha1": "0fab2e6230d8829ce3f71a36b8cd06955b19f246"
+    },
+    {
+     "archivo": "sfx/biblioteca/interruptor-b9.wav",
+     "duracion": 0.105,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "toggle_002.ogg",
+     "sha1": "88a69391ec030f7aa7c138c55bc5955e04e3a5e3"
+    },
+    {
+     "archivo": "sfx/biblioteca/interruptor-b10.wav",
+     "duracion": 0.106,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "toggle_003.ogg",
+     "sha1": "f4d966e026a2dceae2812c884337964fda6fe1b9"
+    },
+    {
+     "archivo": "sfx/biblioteca/interruptor-b11.wav",
+     "duracion": 0.063,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Interface Sounds 1.0 (kenney.nl)",
+     "original": "toggle_004.ogg",
+     "sha1": "f55696b4b231217a7796e7709393bf79f897ac64"
+    }
+   ]
+  },
+  {
+   "id": "golpe",
+   "categoria": "enfasis",
+   "descripcion": "Golpe seco real (puñetazo)",
+   "usos": [
+    "golpe de texto",
+    "énfasis corto",
+    "algo que choca"
+   ],
+   "volumen": 0.6,
+   "variantes": [
+    {
+     "archivo": "sfx/biblioteca/golpe-b1.wav",
+     "duracion": 0.499,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPunch_heavy_000.ogg",
+     "sha1": "f8c949a60a44d0862fb50ba4e8a0a77aabb389d0"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-b2.wav",
+     "duracion": 0.419,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPunch_heavy_001.ogg",
+     "sha1": "a969184798d8aeb6788d054d72a8b593e28627b0"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-b3.wav",
+     "duracion": 0.369,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPunch_heavy_002.ogg",
+     "sha1": "08a073fd8c00c82870f15108cc020590bf942677"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-b4.wav",
+     "duracion": 0.371,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPunch_heavy_003.ogg",
+     "sha1": "ebfb1d7b70dea7b76ff054bd4a0a2285983c8e7c"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-b5.wav",
+     "duracion": 0.419,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPunch_heavy_004.ogg",
+     "sha1": "498f6bae984a976bf24b93c0ba5bdded3bc960d4"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-b6.wav",
+     "duracion": 0.289,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPunch_medium_000.ogg",
+     "sha1": "8ebb49e58245497a4fd50ca856c35e62be53d82b"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-b7.wav",
+     "duracion": 0.273,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPunch_medium_001.ogg",
+     "sha1": "e169c71d67d4441b3ec968fcb06f0a212e637b7b"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-b8.wav",
+     "duracion": 0.36,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPunch_medium_002.ogg",
+     "sha1": "836dab5826c7ae5fa1cdb3a614aa82f45e880bda"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-b9.wav",
+     "duracion": 0.304,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPunch_medium_003.ogg",
+     "sha1": "23239319ee2a8411593e043b30b8809469e6b1b2"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-b10.wav",
+     "duracion": 0.361,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPunch_medium_004.ogg",
+     "sha1": "75510f5e333e1fe12b94a84cea38dedb0c25b6ff"
+    }
+   ]
+  },
+  {
+   "id": "golpe-suave",
+   "categoria": "organico",
+   "descripcion": "Golpe suave y sordo",
+   "usos": [
+    "tarjeta o imagen que aterriza",
+    "objeto que cae"
+   ],
+   "volumen": 0.55,
+   "variantes": [
+    {
+     "archivo": "sfx/biblioteca/golpe-suave-b1.wav",
+     "duracion": 0.512,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactSoft_heavy_000.ogg",
+     "sha1": "b2b75f013ecb675cea6df9fc424dbae7a39f5a7a"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-suave-b2.wav",
+     "duracion": 0.569,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactSoft_heavy_001.ogg",
+     "sha1": "c61b666955b1efc248c1acb8d6f8614d575c2ad6"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-suave-b3.wav",
+     "duracion": 0.569,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactSoft_heavy_002.ogg",
+     "sha1": "0b8df7ffc157a0fe0923ca0f266d95dd028ec1a5"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-suave-b4.wav",
+     "duracion": 0.541,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactSoft_heavy_003.ogg",
+     "sha1": "5bcbb39ebee0088c6dfd4f1b3ae20070cfee2248"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-suave-b5.wav",
+     "duracion": 0.498,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactSoft_heavy_004.ogg",
+     "sha1": "57eae8421d903d4a9d50abc7d0ec66d8fd67ed43"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-suave-b6.wav",
+     "duracion": 0.115,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactSoft_medium_000.ogg",
+     "sha1": "7575b6e5cc59a73cca00ed3e8c2d7b440afd1898"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-suave-b7.wav",
+     "duracion": 0.18,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactSoft_medium_001.ogg",
+     "sha1": "020c492fbe661bf40b63b6b0ed0b43c9a8b7c6ec"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-suave-b8.wav",
+     "duracion": 0.132,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactSoft_medium_002.ogg",
+     "sha1": "321c2c769ea7300431e2799eb3684a791d835f53"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-suave-b9.wav",
+     "duracion": 0.137,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactSoft_medium_003.ogg",
+     "sha1": "5a8254aa00b4462f791b031bc111fa96b3a8acc2"
+    },
+    {
+     "archivo": "sfx/biblioteca/golpe-suave-b10.wav",
+     "duracion": 0.144,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactSoft_medium_004.ogg",
+     "sha1": "93830d97ac16922b44ee2fef6c4c91bf4acf3140"
+    }
+   ]
+  },
+  {
+   "id": "metal",
+   "categoria": "organico",
+   "descripcion": "Impacto metálico",
+   "usos": [
+    "algo industrial",
+    "candado",
+    "golpe frío"
+   ],
+   "volumen": 0.5,
+   "variantes": [
+    {
+     "archivo": "sfx/biblioteca/metal-b1.wav",
+     "duracion": 0.165,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactMetal_heavy_000.ogg",
+     "sha1": "af145ddb661aeeff671659ecedddecb1f117abf3"
+    },
+    {
+     "archivo": "sfx/biblioteca/metal-b2.wav",
+     "duracion": 0.356,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactMetal_heavy_001.ogg",
+     "sha1": "d86571ae1b4a9d2014371d2a8b65143461f602e0"
+    },
+    {
+     "archivo": "sfx/biblioteca/metal-b3.wav",
+     "duracion": 0.114,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactMetal_heavy_002.ogg",
+     "sha1": "a79b511bbf7ec790d0ff5e02f78eb9c30ae87517"
+    },
+    {
+     "archivo": "sfx/biblioteca/metal-b4.wav",
+     "duracion": 0.204,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactMetal_heavy_003.ogg",
+     "sha1": "ebfb151fc24efeff2e3e605a4a881ec6374a43d7"
+    },
+    {
+     "archivo": "sfx/biblioteca/metal-b5.wav",
+     "duracion": 0.131,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactMetal_heavy_004.ogg",
+     "sha1": "60b06c7125969b43ea1ffeab178a9f0c7d20a9f4"
+    },
+    {
+     "archivo": "sfx/biblioteca/metal-b6.wav",
+     "duracion": 0.269,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactMetal_medium_000.ogg",
+     "sha1": "763f6d873e3f489731bf9bb6a93273a8f5e0c631"
+    },
+    {
+     "archivo": "sfx/biblioteca/metal-b7.wav",
+     "duracion": 0.141,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactMetal_medium_001.ogg",
+     "sha1": "be8390c4d2ce68ef65b28d1377519ad573855573"
+    },
+    {
+     "archivo": "sfx/biblioteca/metal-b8.wav",
+     "duracion": 0.116,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactMetal_medium_002.ogg",
+     "sha1": "ae42e64c8bd4cc594a67357f78aca7b0d2b24e77"
+    },
+    {
+     "archivo": "sfx/biblioteca/metal-b9.wav",
+     "duracion": 0.251,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactMetal_medium_003.ogg",
+     "sha1": "88d7a1dedd5a738b3c58a6d7f94b679cd710ae5e"
+    },
+    {
+     "archivo": "sfx/biblioteca/metal-b10.wav",
+     "duracion": 0.107,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactMetal_medium_004.ogg",
+     "sha1": "ea856107c727d6daaa054adbe27dbccd618f66c7"
+    },
+    {
+     "archivo": "sfx/biblioteca/metal-b11.wav",
+     "duracion": 0.438,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPlate_heavy_000.ogg",
+     "sha1": "43f09da21528f11bff996093392bb8592aaabff8"
+    },
+    {
+     "archivo": "sfx/biblioteca/metal-b12.wav",
+     "duracion": 0.349,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPlate_heavy_001.ogg",
+     "sha1": "5b0f6ea35f183e03ca8c8e3d180fb0bf124fd421"
+    },
+    {
+     "archivo": "sfx/biblioteca/metal-b13.wav",
+     "duracion": 0.494,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPlate_heavy_002.ogg",
+     "sha1": "30408ac1a0057377e9fe6d27673e49de46b0b6c8"
+    },
+    {
+     "archivo": "sfx/biblioteca/metal-b14.wav",
+     "duracion": 0.344,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPlate_heavy_003.ogg",
+     "sha1": "c32d4816c566efae8c944627b6e36b50d449c02b"
+    },
+    {
+     "archivo": "sfx/biblioteca/metal-b15.wav",
+     "duracion": 0.559,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPlate_heavy_004.ogg",
+     "sha1": "5e30b019ce4d115a8095c1c9ecb4e3acef2efea8"
+    }
+   ]
+  },
+  {
+   "id": "madera",
+   "categoria": "organico",
+   "descripcion": "Golpe de madera",
+   "usos": [
+    "golpe sobre la mesa",
+    "algo cálido o artesanal"
+   ],
+   "volumen": 0.5,
+   "variantes": [
+    {
+     "archivo": "sfx/biblioteca/madera-b1.wav",
+     "duracion": 0.31,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactWood_heavy_000.ogg",
+     "sha1": "fd6cbe0bb73ce1186ad89617eaf5af22373d7b78"
+    },
+    {
+     "archivo": "sfx/biblioteca/madera-b2.wav",
+     "duracion": 0.31,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactWood_heavy_001.ogg",
+     "sha1": "24a5c2fb1f71fbc2a4693516b826da437e002566"
+    },
+    {
+     "archivo": "sfx/biblioteca/madera-b3.wav",
+     "duracion": 0.31,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactWood_heavy_002.ogg",
+     "sha1": "87ac8662f5347592f5e6cb66433910aecc13673a"
+    },
+    {
+     "archivo": "sfx/biblioteca/madera-b4.wav",
+     "duracion": 0.31,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactWood_heavy_003.ogg",
+     "sha1": "89baaffdfc1b97956e7e2edcec494d312ce39cf4"
+    },
+    {
+     "archivo": "sfx/biblioteca/madera-b5.wav",
+     "duracion": 0.31,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactWood_heavy_004.ogg",
+     "sha1": "afb3a3444e199601106e2028aa9590c08eb1488e"
+    },
+    {
+     "archivo": "sfx/biblioteca/madera-b6.wav",
+     "duracion": 0.33,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactWood_medium_000.ogg",
+     "sha1": "894be07d2029526c4583b04b484a8fd15bd1f82f"
+    },
+    {
+     "archivo": "sfx/biblioteca/madera-b7.wav",
+     "duracion": 0.33,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactWood_medium_001.ogg",
+     "sha1": "cddbb1b87ab7ad72e721e56b826ba6119534f476"
+    },
+    {
+     "archivo": "sfx/biblioteca/madera-b8.wav",
+     "duracion": 0.33,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactWood_medium_002.ogg",
+     "sha1": "25c33c00e35a6d39496037b72f13fd3d053b83e4"
+    },
+    {
+     "archivo": "sfx/biblioteca/madera-b9.wav",
+     "duracion": 0.326,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactWood_medium_003.ogg",
+     "sha1": "ff0220050643ce70f74ca59ed2a4efe2a82f002a"
+    },
+    {
+     "archivo": "sfx/biblioteca/madera-b10.wav",
+     "duracion": 0.303,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactWood_medium_004.ogg",
+     "sha1": "495427a16de72dde81106b31785ad0e70aa551f4"
+    },
+    {
+     "archivo": "sfx/biblioteca/madera-b11.wav",
+     "duracion": 0.423,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPlank_medium_000.ogg",
+     "sha1": "2b2a669e55d2ca2667a9068c97f3cfa0e034d9c8"
+    },
+    {
+     "archivo": "sfx/biblioteca/madera-b12.wav",
+     "duracion": 0.414,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPlank_medium_001.ogg",
+     "sha1": "3a5285db9ae01d4bfc6b550c0109875998303544"
+    },
+    {
+     "archivo": "sfx/biblioteca/madera-b13.wav",
+     "duracion": 0.418,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPlank_medium_002.ogg",
+     "sha1": "7c3d0938e9c5298150e527bb3ebd46a844983eec"
+    },
+    {
+     "archivo": "sfx/biblioteca/madera-b14.wav",
+     "duracion": 0.43,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPlank_medium_003.ogg",
+     "sha1": "3cddf41ed835869df460c53effa93090debb94f5"
+    },
+    {
+     "archivo": "sfx/biblioteca/madera-b15.wav",
+     "duracion": 0.397,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactPlank_medium_004.ogg",
+     "sha1": "23fe3ac2709b62a6f49aac2346c9a261dd482e7d"
+    }
+   ]
+  },
+  {
+   "id": "vidrio",
+   "categoria": "organico",
+   "descripcion": "Golpe o tintineo de vidrio",
+   "usos": [
+    "algo frágil",
+    "brindis",
+    "algo que se rompe"
+   ],
+   "volumen": 0.45,
+   "variantes": [
+    {
+     "archivo": "sfx/biblioteca/vidrio-b1.wav",
+     "duracion": 0.238,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_heavy_000.ogg",
+     "sha1": "c56e309f9c163544d4da13affc65abff7354b4b1"
+    },
+    {
+     "archivo": "sfx/biblioteca/vidrio-b2.wav",
+     "duracion": 0.429,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_heavy_001.ogg",
+     "sha1": "ece66431f90a41f6dabad50ddb6ba50d6c2fc1d4"
+    },
+    {
+     "archivo": "sfx/biblioteca/vidrio-b3.wav",
+     "duracion": 0.244,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_heavy_002.ogg",
+     "sha1": "dc02a1ace09a8256561f323448b1079d24327f98"
+    },
+    {
+     "archivo": "sfx/biblioteca/vidrio-b4.wav",
+     "duracion": 0.169,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_heavy_003.ogg",
+     "sha1": "261c3a6abcd7df5129f4ae63a33f06a86418df0f"
+    },
+    {
+     "archivo": "sfx/biblioteca/vidrio-b5.wav",
+     "duracion": 0.396,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_heavy_004.ogg",
+     "sha1": "64d308d34136b4f08fe2b25ec9c4ee8f01b2fa05"
+    },
+    {
+     "archivo": "sfx/biblioteca/vidrio-b6.wav",
+     "duracion": 0.151,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_light_000.ogg",
+     "sha1": "50b1e337cae411d6aaaf4ba60cce3a31243502cd"
+    },
+    {
+     "archivo": "sfx/biblioteca/vidrio-b7.wav",
+     "duracion": 0.168,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_light_001.ogg",
+     "sha1": "9bbca5ab626cb4d771c343d9f4a20383d3975600"
+    },
+    {
+     "archivo": "sfx/biblioteca/vidrio-b8.wav",
+     "duracion": 0.197,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_light_002.ogg",
+     "sha1": "4021d2a9f91b13a8edb904610ae4672c7a4d6fee"
+    },
+    {
+     "archivo": "sfx/biblioteca/vidrio-b9.wav",
+     "duracion": 0.179,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_light_003.ogg",
+     "sha1": "4be3d9c44760b940a0d895c24d8c9a3b6984ef24"
+    },
+    {
+     "archivo": "sfx/biblioteca/vidrio-b10.wav",
+     "duracion": 0.153,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_light_004.ogg",
+     "sha1": "159af7adef946ae4177bea63fae427d8d75546de"
+    },
+    {
+     "archivo": "sfx/biblioteca/vidrio-b11.wav",
+     "duracion": 0.54,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_medium_000.ogg",
+     "sha1": "1720bed01b9433e5b906ba1bcb5c1989ffec9eca"
+    },
+    {
+     "archivo": "sfx/biblioteca/vidrio-b12.wav",
+     "duracion": 0.54,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_medium_001.ogg",
+     "sha1": "849c6d180e503f0ffbb38568bed56faced846a25"
+    },
+    {
+     "archivo": "sfx/biblioteca/vidrio-b13.wav",
+     "duracion": 0.54,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_medium_002.ogg",
+     "sha1": "e1c03abd6e17500599eebc5975694fc5f1bf9ac8"
+    },
+    {
+     "archivo": "sfx/biblioteca/vidrio-b14.wav",
+     "duracion": 0.54,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_medium_003.ogg",
+     "sha1": "84cb5e5b988d6d8c7ade222ca36117b108f234d9"
+    },
+    {
+     "archivo": "sfx/biblioteca/vidrio-b15.wav",
+     "duracion": 0.429,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactGlass_medium_004.ogg",
+     "sha1": "adcaf4ff20ae0b5fb372ed40ac31f75a8937de76"
+    }
+   ]
+  },
+  {
+   "id": "campana",
+   "categoria": "resultado",
+   "descripcion": "Campana grave golpeada",
+   "usos": [
+    "anuncio importante",
+    "cierre solemne"
+   ],
+   "volumen": 0.45,
+   "variantes": [
+    {
+     "archivo": "sfx/biblioteca/campana-b1.wav",
+     "duracion": 1.281,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactBell_heavy_000.ogg",
+     "sha1": "5c86171ca9b942e1329431c86132fc3c709113b6"
+    },
+    {
+     "archivo": "sfx/biblioteca/campana-b2.wav",
+     "duracion": 1.561,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactBell_heavy_001.ogg",
+     "sha1": "b72c83cca0b2a4bb8060f25a0ca21e44399b3dee"
+    },
+    {
+     "archivo": "sfx/biblioteca/campana-b3.wav",
+     "duracion": 0.682,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactBell_heavy_002.ogg",
+     "sha1": "d524dd68ec52ed7d8cb510eedb44f60e0d9db664"
+    },
+    {
+     "archivo": "sfx/biblioteca/campana-b4.wav",
+     "duracion": 0.629,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactBell_heavy_003.ogg",
+     "sha1": "d34e6ae7868609b0a87f3847713be2963f56dcdf"
+    },
+    {
+     "archivo": "sfx/biblioteca/campana-b5.wav",
+     "duracion": 0.299,
+     "fuente": "biblioteca",
+     "licencia": "CC0",
+     "origen": "Kenney · Impact Sounds (kenney.nl)",
+     "original": "impactBell_heavy_004.ogg",
+     "sha1": "4b27976b6ae00dc34ae9b9eb1cac6e538116e300"
+    }
+   ]
+  }
+ ]
+}

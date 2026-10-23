@@ -1,0 +1,40 @@
+{
+  "_nota": "Perfil del creador. Lo rellena /configurar con la entrevista inicial; se puede editar a mano. foto: ruta en studio/public (p. ej. marca/creador.jpg) o vacía para usar las iniciales. Las composiciones leen 'creador' y 'cta' a través de studio/src/lib/perfil.ts.",
+  "configurado": false,
+  "creador": {
+    "nombre": "",
+    "usuario": "tu.usuario",
+    "iniciales": "TU",
+    "foto": "",
+    "bio": "De qué va tu cuenta, en una frase",
+    "pie": "Nuevos videos cada semana",
+    "redes": []
+  },
+  "contenido": {
+    "nicho": "",
+    "temas": [],
+    "audiencia": "",
+    "objetivo": "",
+    "formatos": [],
+    "duracionS": [40, 90]
+  },
+  "voz": {
+    "tono": "",
+    "persona": "tú",
+    "ritmoPpm": [160, 210],
+    "expresionesPropias": [],
+    "palabrasProhibidas": [],
+    "vozElevenLabs": ""
+  },
+  "cta": {
+    "tipo": "seguir",
+    "frase": "Sígueme para más"
+  },
+  "preferencias": {
+    "intensidad": "dinamico",
+    "subtitulos": "abajo",
+    "broll": false,
+    "avatar": false,
+    "musica": "opcional"
+  }
+}

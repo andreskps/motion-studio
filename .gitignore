@@ -1,0 +1,32 @@
+# Dependencias y builds
+node_modules/
+studio/out/
+studio/build/
+.remotion/
+
+# Renders y archivos pesados de proyectos
+proyectos/*/render/
+*.mp4
+*.mov
+*.wav
+*.mp3
+!studio/public/**/*.mp3
+!studio/public/**/*.wav
+# La voz de prueba del proyecto demo viaja con la plantilla
+!proyectos/demo/audio.mp3
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+.env
+
+# Copias de audio y datos de proyectos dentro del studio (se regeneran con el pipeline)
+studio/public/proyectos/
+
+# Videos exportados (finales, masterizados)
+exportados/
