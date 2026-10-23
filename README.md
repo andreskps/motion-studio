@@ -123,6 +123,8 @@ Claude va paso a paso y **se para cuando tiene que preguntarte**:
 
 ## Licencias y reglas
 
+- El código del estudio tiene licencia [MIT](LICENSE): puedes usarlo, modificarlo y compartirlo, también con fines comerciales, manteniendo el aviso de copyright.
+- Remotion tiene su propia licencia: es gratis para personas y equipos pequeños, pero algunas empresas necesitan una licencia de pago (ver [remotion.dev/license](https://www.remotion.dev/license)).
 - Los efectos de sonido incluidos son sintetizados por el estudio o CC0 (Kenney). La música debe tener licencia comercial sin atribución.
 - El estudio nunca genera con IA caras, logos ni productos reales, y nunca descarga nada sin tu permiso.
 - La voz del `demo` es una voz sintética de Windows, solo para probar.
